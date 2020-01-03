@@ -1,8 +1,9 @@
-#Project Structure
+# Project Structure
 This project has two modules 
 com.primes.prime_multiplier
 com.primes.prime_helper
-#Run 
+
+# Run 
 python -m com.primes.prime_multiplier
 
 # Running Tests
